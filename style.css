@@ -52,3 +52,13 @@ padding-top: 10px;
 padding-bottom: 10px;
 border-radius: 10%;
 }
+
+.play_song{
+    font-size: 25px;
+    width: 110px;
+}
+canvas{
+    border: 5px solid skyblue;
+    border-radius: 20%;
+
+}
