@@ -23,8 +23,8 @@ function draw(){
     image(video,0,0,600,500);
 }
 
-function play_song(){
-    sound.play_song();
+function play(){
+    sound.play();
     sound.setVolume(1);
     sound.rate(1);
 }
