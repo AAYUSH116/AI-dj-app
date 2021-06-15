@@ -6,7 +6,8 @@ leftWristX=0;
 leftWristY=0;
 rightWristX=0;
 rightWristY=0;
-
+score_rightWrist=0;
+score_leftWrist=0;
 
 function preLoad(){
     sound=loadSound("music.mp3");
